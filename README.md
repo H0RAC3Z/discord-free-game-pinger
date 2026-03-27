@@ -12,6 +12,8 @@ A simple Discord bot that tags a role when specific users post messages.
 
 4. Refresh token and copy it to place in the .env file
 
+CAUTION: THIS TOKEN SHOULD BE TREATED LIKE A PASSWORD. DO NOT SHARE THIS API KEY.
+
 ## Setup
 
 1. Clone the repo:
